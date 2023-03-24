@@ -1,5 +1,5 @@
-# My paper on recent nice findings
-Nora Taufertsh??fer, University of Wuerzburg
+# My paper on recent very nice research findings
+Nora Taufertshoefer, University of Wuerzburg
 Collaborators: 1. col ,2. col
 Third collaborator
 
