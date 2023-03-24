@@ -1,4 +1,5 @@
 # My paper on recent nice research
+Nora Taufertshöfer, University of Wuerzburg
 
 ## Abstract
 
